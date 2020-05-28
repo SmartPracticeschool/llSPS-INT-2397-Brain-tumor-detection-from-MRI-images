@@ -1,0 +1,4 @@
+Brain tumor detection from MRI images
+
+Brain tumor identification is really challenging task in the early stages of life. But now it became advanced with various machine learning algorithms. Now a day’s issue of brain tumor automatic identification is of great interest. A tumor is the unusual growth of the tissues. A brain tumor is a number of unnecessary cells growing in the brain or central spine canal.
+It is the unrestrained progress of cancer cells in any portion of the body. In Order to detect the brain tumor of a patient, we consider the data of patients like MRI images of a patient’s brain. Here our problem is to identify whether the tumor is present in the patient's brain or not. It is very important to detect the tumors at the starting level for a healthy life of a patient.
